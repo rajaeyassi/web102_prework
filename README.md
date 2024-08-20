@@ -27,9 +27,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/gallery/web-work-P9AeXyG' title='Web-work' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
 [Kap](https://ezgif.com/) for macOS
 
 
