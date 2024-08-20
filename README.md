@@ -25,10 +25,12 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/web-work-P9AeXyG' title='Web-work' width='' alt='Video Walkthrough' />
+[![Video Walkthrough](file:///Users/rajaeyassine/Downloads/web.%20image.htm)](https://imgur.com/gallery/web-work-P9AeXyG)
+
 
 GIF created with ...  
 [Kap](https://ezgif.com/) for macOS
+
 
 
 ## Notes
