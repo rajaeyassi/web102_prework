@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    display: flex;
+    align-items: center;
+}
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -30,7 +36,9 @@ body {
     margin: 1%;
     width: 100%;
     text-align: center;
+    
 }
+
 
 #num-contributions, #total-raised, #num-games {
     font-size: 50px;
@@ -40,6 +48,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+   
 }
 
 .game-img {
@@ -73,3 +82,34 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+/* Add styles for the navbar */
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: #333;
+    padding: 10px 0;
+    z-index: 1000;
+  }
+  
+  .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin: 0 15px;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    color: #ddd;
+  }
+  
