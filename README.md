@@ -25,7 +25,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](file:///Users/rajaeyassine/Downloads/web.%20image.htm)](https://imgur.com/gallery/web-work-P9AeXyG)
+[![Video Walkthrough](## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+[![Video Walkthrough](https://i.imgur.com/ZYDZnlA.png)](https://imgur.com/gallery/web-work-P9AeXyG)
+
+GIF created with ...  
+[Kap](https://ezgif.com/) for macOS
+)](https://imgur.com/gallery/web-work-P9AeXyG)
 
 
 GIF created with ...  
