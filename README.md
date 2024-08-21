@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://i.imgur.com/ZYDZnlA.png)](https://imgur.com/gallery/web-work-P9AeXyG)
+[![Video Walkthrough](https://i.imgur.com/ZYDZnlA.png)](https://i.imgur.com/ukaB60H.gif)
 
 GIF created with ...  
 [Kap](https://ezgif.com/) for macOS
