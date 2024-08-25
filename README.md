@@ -25,10 +25,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://i.imgur.com/ZYDZnlA.png)](https://i.imgur.com/ukaB60H.gif)
+[![Video Walkthrough](https://i.imgur.com/ZYDZnlA.png)](file:///Users/rajaeyassine/Downloads/Walkthrough%20video.gif)
 
 GIF created with ...  
-[Kap](https://ezgif.com/) for macOS
+[Kap][Licecap]for macOS
 
 
 
