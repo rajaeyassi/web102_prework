@@ -25,10 +25,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://i.imgur.com/ZYDZnlA.png)](file:///Users/rajaeyassine/Downloads/Walkthrough%20video.gif)
+![Walkthrough Video](https://github.com/rajaeyassi/web102_prework/blob/main/assets/Walkthrough%20video.gif)
 
 GIF created with ...  
-[Kap][Licecap]for macOS
+[Kap][Licecap] for macOS
+
 
 
 
